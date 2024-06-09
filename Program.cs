@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿//Written for Fateless. https://store.steampowered.com/app/1186670
+using System.IO;
 
 namespace Fateless_Extractor
 {
